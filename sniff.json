@@ -1,0 +1,22 @@
+{
+  "go": {
+    "commands": [
+      "make"
+    ]
+  },
+  "sniff_ignore_dir": [
+    ".git",
+    ".builds"
+  ],
+  "sniff_ignore_file": [
+    "devbox",
+    ".editorconfig",
+    ".gitignore",
+    "go.mod",
+    "sniff.json",
+    "go.sum",
+    "LICENSE",
+    "Makefile"
+  ],
+  "sniff_cooldown": 650
+}
